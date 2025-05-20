@@ -46,6 +46,8 @@
 
 ![Ekran pauzy](views/pause_screen.png)
 
+![Ekran pauzy](views/instruction.png)
+
 ![Śmierć](views/dead.png)
 
 ![Koniec gry](views/game_over.png)  
