@@ -53,7 +53,7 @@
 
 ![Śmierć](views/dead.png)
 
-![Wygrana](view/game_won.png)
+![Wygrana](views/game_won.png)
 
 ![Koniec gry](views/game_over.png)  
 
